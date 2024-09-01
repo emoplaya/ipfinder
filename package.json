@@ -2,6 +2,7 @@
   "name": "ip-address-tracker-master",
   "version": "1.0.0",
   "main": "index.js",
+  "homepage": "https://emoplaya.github.io/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel index.html --open",
@@ -13,6 +14,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "gh-pages": "^6.1.1",
     "parcel-bundler": "^1.12.5",
     "vercel": "^37.2.1"
   },
