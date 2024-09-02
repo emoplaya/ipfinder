@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel index.html --open",
-    "build": "parcel build index.html --dist-dir=build",
+    "build": "parcel build  --out-dir out www/index.html",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },

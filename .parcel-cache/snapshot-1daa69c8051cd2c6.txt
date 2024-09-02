@@ -6,7 +6,7 @@
 85C:\Users\basil\Desktop\js\ip-address-tracker-master\node_modules\weak-lru-cache\tests133697398671215571 1
 145C:\Users\basil\Desktop\js\ip-address-tracker-master\node_modules\@vercel\static-config\node_modules\ajv\lib\vocabularies\dynamic\dynamicAnchor.ts133696765830821711 0
 119C:\Users\basil\Desktop\js\ip-address-tracker-master\node_modules\@swc\helpers\esm\_class_check_private_static_access.js133697398676330324 0
-57C:\Users\basil\Desktop\js\ip-address-tracker-master\build133697419320836787 1
+57C:\Users\basil\Desktop\js\ip-address-tracker-master\build133697427495821637 1
 98C:\Users\basil\Desktop\js\ip-address-tracker-master\node_modules\fs-extra\lib\path-exists\index.js133696765822809909 0
 107C:\Users\basil\Desktop\js\ip-address-tracker-master\node_modules\utility-types\dist\aliases-and-guards.d.ts133697398672973756 0
 74C:\Users\basil\Desktop\js\ip-address-tracker-master\node_modules\@mischnic133697398653945365 1
@@ -55,7 +55,7 @@
 84C:\Users\basil\Desktop\js\ip-address-tracker-master\node_modules\mimic-fn\index.d.ts133696765807245844 0
 92C:\Users\basil\Desktop\js\ip-address-tracker-master\node_modules\utility-types\dist\index.js133697398670436352 0
 96C:\Users\basil\Desktop\js\ip-address-tracker-master\node_modules\css-tree\lib\syntax\node\CDO.js133697398672544202 0
-62C:\Users\basil\Desktop\js\ip-address-tracker-master\index.html133697425424905804 0
+62C:\Users\basil\Desktop\js\ip-address-tracker-master\index.html133697425957570408 0
 87C:\Users\basil\Desktop\js\ip-address-tracker-master\node_modules\typescript\LICENSE.txt133696765833858613 0
 140C:\Users\basil\Desktop\js\ip-address-tracker-master\node_modules\@vercel\static-config\node_modules\ajv\lib\vocabularies\applicator\index.ts133696765831471047 0
 76C:\Users\basil\Desktop\js\ip-address-tracker-master\node_modules\any-promise133696765821661087 1
@@ -2271,7 +2271,7 @@
 92C:\Users\basil\Desktop\js\ip-address-tracker-master\node_modules\undici\lib\fetch\symbols.js133696765825876777 0
 108C:\Users\basil\Desktop\js\ip-address-tracker-master\node_modules\cosmiconfig\dist\canUseDynamicImport.js.map133697398673213519 0
 104C:\Users\basil\Desktop\js\ip-address-tracker-master\node_modules\caniuse-lite\data\features\objectrtc.js133697398680516051 0
-80C:\Users\basil\Desktop\js\ip-address-tracker-master\build\index.e7551344.css.map133697419320836787 0
+80C:\Users\basil\Desktop\js\ip-address-tracker-master\build\index.e7551344.css.map133697427495811659 0
 100C:\Users\basil\Desktop\js\ip-address-tracker-master\node_modules\typescript\ThirdPartyNoticeText.txt133696765833888577 0
 95C:\Users\basil\Desktop\js\ip-address-tracker-master\node_modules\agent-base\dist\src\index.d.ts133696765813189756 0
 175C:\Users\basil\Desktop\js\ip-address-tracker-master\node_modules\.cache\gh-pages\https!github.com!emoplaya!ip-address-tracker-master.git\.git\logs\refs\remotes\origin\gh-pages133696893432547137 0
@@ -5482,7 +5482,7 @@
 81C:\Users\basil\Desktop\js\ip-address-tracker-master\node_modules\escalade\license133697398669377439 0
 86C:\Users\basil\Desktop\js\ip-address-tracker-master\node_modules\escalade\package.json133697398670506287 0
 141C:\Users\basil\Desktop\js\ip-address-tracker-master\node_modules\@vercel\static-config\node_modules\ajv\dist\vocabularies\format\index.js.map133696765828693893 0
-68C:\Users\basil\Desktop\js\ip-address-tracker-master\build\index.html133697419320786837 0
+68C:\Users\basil\Desktop\js\ip-address-tracker-master\build\index.html133697427495741719 0
 90C:\Users\basil\Desktop\js\ip-address-tracker-master\node_modules\escalade\sync\index.d.mts133697398671864889 0
 89C:\Users\basil\Desktop\js\ip-address-tracker-master\node_modules\escalade\sync\index.d.ts133697398672274481 0
 133C:\Users\basil\Desktop\js\ip-address-tracker-master\node_modules\@vercel\static-config\node_modules\ajv\dist\refs\json-schema-2019-09133696765831161373 1
@@ -5583,7 +5583,7 @@
 109C:\Users\basil\Desktop\js\ip-address-tracker-master\node_modules\edge-runtime\node_modules\picocolors\LICENSE133696765802440757 0
 61C:\Users\basil\Desktop\js\ip-address-tracker-master\.cache\23133696849886406535 1
 117C:\Users\basil\Desktop\js\ip-address-tracker-master\node_modules\edge-runtime\node_modules\picocolors\picocolors.d.ts133696765811861118 0
-75C:\Users\basil\Desktop\js\ip-address-tracker-master\build\index.dd168d5b.js133697419320786837 0
+75C:\Users\basil\Desktop\js\ip-address-tracker-master\build\index.dd168d5b.js133697427495741719 0
 99C:\Users\basil\Desktop\js\ip-address-tracker-master\node_modules\css-what\lib\es\stringify.d.ts.map133697398672993734 0
 110C:\Users\basil\Desktop\js\ip-address-tracker-master\node_modules\@swc\helpers\src\_iterable_to_array_limit.mjs133697398679077525 0
 115C:\Users\basil\Desktop\js\ip-address-tracker-master\node_modules\edge-runtime\node_modules\picocolors\picocolors.js133696765809173866 0
@@ -9355,11 +9355,11 @@
 77C:\Users\basil\Desktop\js\ip-address-tracker-master\design\desktop-design.jpg132597960110000000 0
 78C:\Users\basil\Desktop\js\ip-address-tracker-master\design\desktop-preview.jpg132597960110000000 0
 76C:\Users\basil\Desktop\js\ip-address-tracker-master\design\mobile-design.jpg132597960110000000 0
-84C:\Users\basil\Desktop\js\ip-address-tracker-master\build\favicon-32x32.30e62e77.png133697419315179324 0
-79C:\Users\basil\Desktop\js\ip-address-tracker-master\build\index.dd168d5b.js.map133697419320836787 0
+84C:\Users\basil\Desktop\js\ip-address-tracker-master\build\favicon-32x32.30e62e77.png133697427493007127 0
+79C:\Users\basil\Desktop\js\ip-address-tracker-master\build\index.dd168d5b.js.map133697427495811659 0
 61C:\Users\basil\Desktop\js\ip-address-tracker-master\.cache\25133696850408513128 1
-76C:\Users\basil\Desktop\js\ip-address-tracker-master\build\index.e7551344.css133697419320786837 0
-81C:\Users\basil\Desktop\js\ip-address-tracker-master\build\pattern-bg.d0df58d4.png133697419316855113 0
+76C:\Users\basil\Desktop\js\ip-address-tracker-master\build\index.e7551344.css133697427495741719 0
+81C:\Users\basil\Desktop\js\ip-address-tracker-master\build\pattern-bg.d0df58d4.png133697427493007127 0
 61C:\Users\basil\Desktop\js\ip-address-tracker-master\.cache\03133696849879229765 1
 61C:\Users\basil\Desktop\js\ip-address-tracker-master\.cache\04133696849879239775 1
 61C:\Users\basil\Desktop\js\ip-address-tracker-master\.cache\05133696849879239775 1
