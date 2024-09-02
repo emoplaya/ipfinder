@@ -8,7 +8,7 @@
     "start": "parcel index.html --open",
     "build": "parcel build  --out-dir out www/index.html",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "vercel --prod"
   },
   "keywords": [],
   "author": "",
