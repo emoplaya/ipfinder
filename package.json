@@ -2,13 +2,13 @@
   "name": "ip-address-tracker-master",
   "version": "1.0.0",
   "default": "index.html",
-  "homepage": "https://emoplaya.github.io/",
+  "homepage": "https://github.com/emoplaya/ipfinder",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel index.html --open",
     "build": "parcel build index.html --dist-dir=build",
     "predeploy": "npm run build",
-    "deploy": "vercel --prod"
+    "deploy": "gh-pages -d build"
   },
   "keywords": [],
   "author": "",
